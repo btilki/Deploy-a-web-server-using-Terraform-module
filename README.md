@@ -1,4 +1,4 @@
-# Deploy Nginx on EC2 instance using the user's own Terraform modules
+# Deploy Nginx on EC2 instance using the user's Terraform modules
 
 Deploy a modular, reusable Nginx infrastructure using Terraform on AWS. This repository demonstrates best practices in infrastructure-as-code (IaC), enabling scalable, maintainable deployments with the aid of Terraform modules.
 
