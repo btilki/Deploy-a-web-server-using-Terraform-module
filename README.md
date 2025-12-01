@@ -20,6 +20,8 @@ Deploy a modular, reusable Nginx infrastructure using Terraform on AWS. This rep
 1. Clone the repository:
     ```sh
     git clone https://github.com/btilki/Deploy-Nginx-on-EC2-instance-using-Terraform-modules.git
+    ```
+    ```sh
     cd Deploy-Nginx-on-EC2-instance-using-Terraform-modules
     ```
 
